@@ -1,0 +1,5 @@
+<div class="content">
+  <h1><%= @document['page.title'].as_text() %></h1>
+  <img src="<%= @document['page.image'].url %>" />
+  <%= @document['page.description'].as_html(nil).html_safe %>
+</div>

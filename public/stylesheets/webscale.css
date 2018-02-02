@@ -1,0 +1,63 @@
+.navbar, .navbar-inverse {
+  height: 60px;
+  padding-top: 11px;
+  background-color: #007a87;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.navbar .home-link {
+  vertical-align: middle;
+  padding-right: 20px;
+  padding-top: 2px;
+}
+
+.navbar .navbar-title {
+  font-size: x-large;
+  color: white;
+  font-weight: bold;
+  padding-left: 20px;
+  vertical-align: middle;
+}
+
+.navbar .logo-image {
+  height: 35px;
+  width: auto;
+  display: inline-block;
+}
+
+.title-bar {
+  text-align: center;
+  margin: 20px;
+}
+
+.knowledge-base {
+  min-height: 250px;
+  padding-right: 15px;
+}
+
+.user-guides {
+  min-height: 250px;
+  padding-left: 15px;
+}
+
+.guide-content .step {
+  margin-top: 70px;
+  margin-top: 70px;
+}
+
+.guide-content .step .instruction {
+}
+
+.guide-content .step .screenshot {
+}
+
+.guide-content .step .screenshot .sshot-img {
+  max-width: 70%;
+}
+
+.faqs {
+  min-height: 250px;
+  padding-right: 15px;
+}
